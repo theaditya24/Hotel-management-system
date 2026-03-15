@@ -124,9 +124,8 @@ GitHub	                Code hosting
     
     B.Tech Computer Science & Engineering
     Software Developer | Python | React | DSA
-
 ⭐ If you like this project, consider starring the repository.
 
-Phone Number
+Email - adityaraj240203@gmail.com
 
-Name
+Name - Aditya Raj
